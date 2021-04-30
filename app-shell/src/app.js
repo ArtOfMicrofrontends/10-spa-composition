@@ -2,7 +2,6 @@ import 'regenerator-runtime/runtime';
 
 const appContentContainer = document.querySelector("#app-content");
 const registry = {};
-console.log(registry);
 
 feather.replace();
 
